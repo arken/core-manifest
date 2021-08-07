@@ -1,6 +1,6 @@
 name: Core Arken Manifest
 replications: 5
 cluster_key: ccbf5739e87e6c6c0c24d322ec98e86b8af87464f0e239872ab3dbf9f150c488
-bootstrap_nodes:
+bootstrap_peers:
   - /dnsaddr/apollo.arken.io/p2p/12D3KooWRP25fguHTjG1hwmvWySGoUw1cqEps5m7t33JmpsCHNLu
   - /dnsaddr/artemis.arken.io/p2p/12D3KooWEWkStJZzHCYao5eXp9XNBHgAhea37FndyCzQPBnX1JzU
